@@ -12,9 +12,9 @@
 
 **Today's Progress**: OOPs in Python.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with OOPs, but, overall, I feel like I am slowly getting better at it.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://twitter.com/PrachuryaRay/status/1359926682891685888
 
 
 ### Day 2: February 12, 2021
@@ -26,3 +26,12 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 1: February 11, 2021
+
+**Today's Progress**: OOPs in Python.
+
+**Thoughts**: I really struggled with OOPs, but, overall, I feel like I am slowly getting better at it.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
