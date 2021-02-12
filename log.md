@@ -28,7 +28,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 1: February 11, 2021
+### Day 1: February 13, 2021
 
 **Today's Progress**: OOPs in Python.
 
