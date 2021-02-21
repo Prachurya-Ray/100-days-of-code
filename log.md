@@ -44,13 +44,13 @@
 **Link(s) to work**: https://twitter.com/PrachuryaRay/status/1363184856444805122
 
 
-### Day 4: February 20, 2021
+### Day 5: February 21, 2021
 
 **Today's Progress**:  Completed My QSR project.
 
 **Thoughts**: Testing few things in lean way in separate file an then implementing is the most productive way to test ideas.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/Prachurya-Ray/100-days-of-code/blob/master/Programs/R1/QSR.py
 
 
 ### Day 1: February 13, 2021
