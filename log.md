@@ -17,15 +17,40 @@
 **Link(s) to work**: https://twitter.com/PrachuryaRay/status/1359926682891685888
 
 
-### Day 2: February 12, 2021
+### Day 2: February 13, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started a project on Quick Servise Restaurant.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: It will be challenging and most unproductive if you execute in an unplanned manner expecting to find the way along.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: https://twitter.com/PrachuryaRay/status/1360685655349555201
+
+
+### Day 3: February 16, 2021
+
+**Today's Progress**: Continued by making a dictionary as attribute inside class.
+
+**Thoughts**: Don't know if it will be effective in long way.
+
+**Link(s) to work**: https://twitter.com/PrachuryaRay/status/1361705106673082368
+
+
+### Day 4: February 20, 2021
+
+**Today's Progress**:  Made major progress in the mini-project by using dictionaries a lot.
+
+**Thoughts**: In the beginning was little frustrating, but with the flow it became easier and exciting.
+
+**Link(s) to work**: https://twitter.com/PrachuryaRay/status/1363184856444805122
+
+
+### Day 4: February 20, 2021
+
+**Today's Progress**:  Completed My QSR project.
+
+**Thoughts**: Testing few things in lean way in separate file an then implementing is the most productive way to test ideas.
+
+**Link(s) to work**: 
 
 
 ### Day 1: February 13, 2021
@@ -35,3 +60,5 @@
 **Thoughts**: I really struggled with OOPs, but, overall, I feel like I am slowly getting better at it.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
